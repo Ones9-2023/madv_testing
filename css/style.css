@@ -28,8 +28,20 @@
 .post-time{color:#808080 !important;}
 .recent-comments{font-size:11px;color:#3B5998 !important;text-decoration:none;font-weight:bold !important;font-family:tahoma !important;display:block;margin-bottom:12px;}
 #spamBannerContainer{width:100%;padding:10px;text-align:center;background:#46659b !important;color:#FFF;font-weight:bold !important;font-size:18px !important;position:fixed;top:0;left:0;}
-.product-item .picture{float:left;max-width:193px !important;width:40%;text-align:center;display:block;}
-.product-item .text{float:left;min-height:250px;width:60%;display:block;font-family:'Roboto', sans-serif !important;}
+.product-item .picture{
+    float:left;
+    max-width:243px !important;
+    width:50%;
+    text-align:center;
+    display:block;
+}
+.product-item .text{
+    float:left;
+    min-height:250px;
+    width:50%;
+    display:block;
+    font-family:'Roboto', sans-serif !important;
+}
 .product-item{display:inline-block;}
 body{overflow-x:hidden;}
 .block-item{width:95% !important;padding:0 !important;}
